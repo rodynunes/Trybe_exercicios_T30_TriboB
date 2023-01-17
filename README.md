@@ -10,3 +10,4 @@ no terminal acessamos a pasta baixada e fazemos uma nova ramificação chamada n
 
 abrimos o vs code e criamos um novo arquivo index.html
 
+# rodynunes.github.io
